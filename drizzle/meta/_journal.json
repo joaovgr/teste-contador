@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1776028143784,
+      "tag": "0000_youthful_plazm",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1776028430538,
+      "tag": "0001_minor_bulldozer",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1776029485361,
+      "tag": "0002_workable_strong_guy",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1776035168469,
+      "tag": "0003_superb_jane_foster",
+      "breakpoints": true
+    }
+  ]
+}
